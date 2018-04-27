@@ -1,4 +1,4 @@
-# DOST-AI-Summer
+# The Department of Science and Technology (DOST) AI Summer
 
 “The DOST Summer School on Artificial Intelligence”,
 aimed at training college professors, students and government information technology

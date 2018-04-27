@@ -4,16 +4,16 @@
 aimed at training college professors, students and government information technology
 practitioners on the theory and applications of machine learning methodologies. 
 
-Course Outline:
-1. Python Programming and NumPy
-  - iPython Notebook
-  - Variables and Data Types; Control Statements
-  - Lists and Dictionaries
-  - Functions and Classes
-  - File and Exception Handling
-  - Vectors, Matrices and Vectorized Computation
-  - Data Formats
-  - Data Visualization
+### Course Outline:
+**1. Python Programming and NumPy**
+    - iPython Notebook
+    - Variables and Data Types; Control Statements
+    - Lists and Dictionaries
+    - Functions and Classes
+    - File and Exception Handling
+    - Vectors, Matrices and Vectorized Computation
+    - Data Formats
+    - Data Visualization
 2. Overview of Machine Learning
  What is Machine Learning and what are its applications?
  Supervised, Unsupervised, Reinforcement Learning
